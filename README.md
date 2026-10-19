@@ -12,3 +12,5 @@ This repository is created for my midterm Git and GitHub activity.
 Completed initial Git repository setup.
 
 JavaScript source files for my midterm activities are organized by lesson.
+
+I am learning Git commands, branching, merging, and GitHub.
