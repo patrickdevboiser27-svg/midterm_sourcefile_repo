@@ -10,3 +10,5 @@ Purpose
 This repository is created for my midterm Git and GitHub activity.
 
 Completed initial Git repository setup.
+
+JavaScript source files for my midterm activities are organized by lesson.
